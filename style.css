@@ -1,0 +1,208 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&family=Poppins:wght@100&family=Roboto:wght@100&family=Ubuntu:wght@300&display=swap');
+*{
+    box-sizing: border-box;
+}
+.header{
+    width: 100%;
+    background-color: white;
+    font-family: 'Merriweather', serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+}
+.image{
+    margin-left: 100px;
+    position: relative;
+}
+.items{
+    height: 50px;
+    width: 83.26%;
+    background-color: black;
+    position: absolute;
+    margin-top: -510px;
+    margin-left: 100px;
+    border-radius: 3px;
+}
+.head{
+    position: absolute;
+    margin-top: -515px;
+    margin-left: 170px;
+}
+.head1{
+    position: absolute;
+    margin-top: -515px;
+    margin-left: 255px;
+}
+li{
+    display: inline;
+    margin-right: 50px;
+    text-decoration: none;
+}
+.link1:hover,.link2:hover,.link3:hover,.link4:hover{
+    background-color: tomato;
+}
+.nav{
+    position: absolute;
+    margin-top: -495px;
+    margin-left: 800px;
+}
+.offer{
+    position: absolute;
+    margin-top: -300px;
+    margin-left: 40%;
+}
+.arrival{
+    position: absolute;
+    margin-top: -280px;
+    margin-left: 32%;
+}
+.latestProduct{
+    
+    height: 50px;
+    width: 77%;
+    background-color: whitesmoke;
+    margin-left: 160px;
+    margin-top: 50px;
+    position: relative;
+}
+.product{
+   position: absolute;
+   margin-top: -60px;
+   margin-left: 165px;
+   font-family: 'Merriweather', serif;
+  font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.viewproduct{
+    position: absolute;
+    margin-top: -35px;
+    margin-left: 1140px;
+    font-family: 'Merriweather', serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+.product1{
+    margin-left: 160px;
+    margin-right: 10px;
+    margin-top: 30px;
+}
+.description{
+    position: relative;
+}
+.des{
+    height: 180px;
+    width: 24.5%;
+    background-color: white;
+    margin-left: 160px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-top: -5px;
+}
+.des2{
+    height: 180px;
+    width: 24.5%;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+    position: absolute;
+    margin-top: -180px;
+    margin-left: 555px;
+}
+.des3{
+    height: 180px;
+    width: 24.5%;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-top: -180px;
+    margin-left: 950px;
+}
+.checked{
+    color: orange;
+}
+.product2{
+    margin-top: 40px;
+    margin-left: 162px;
+}
+.about{
+    margin-top: 40px;
+    height: 50px;
+    width: 77%;
+    background-color: whitesmoke;
+    margin-left: 170px;
+    position: relative;
+}
+.text{
+    position: absolute;
+    margin-top: -5px;
+    margin-left: 10px;
+}
+.lookingFor{
+    margin-top: 40px;
+    margin-left: 170px;
+    position: relative;
+}
+ul.a{
+    list-style-type: circle;
+    margin-left: 130px;
+}
+.images{
+    margin-top: -390px;
+    margin-left: 830px;
+}
+.readMore{
+    background-color: red; 
+    color: white; 
+    text-align: center;
+     padding: 5px; 
+     border-radius: 5px;
+     margin-left: 170px;
+}
+.readMore:hover{
+    background-color: black;
+}
+.purchase{
+    margin-top: 80px;
+    margin-left: 160px;
+    height: 90px;
+    width: 77%;
+    background-color: whitesmoke;
+    position: relative;
+
+}
+.creative{
+    position: absolute;
+    margin-top: -70px;
+    margin-left: 200px;
+}
+.blog{
+    position: absolute;
+    margin-top: -60px;
+    margin-left: 200px;
+}
+.purchaseNow{
+    background-color: red;
+    color: white;
+    padding: 5px;
+    height: 40px;
+    width: 10%;
+    border-radius: 5px;
+    position: absolute;
+    margin-top: -65px;
+    margin-left: 1100px;
+}
+.purchaseNow:hover{
+    background-color: black;
+}
+.copyrights{
+    font-family: 'Gruppo', cursive;
+font-family: 'Merriweather', serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+text-align: center;
+margin-top: 40px;
+}
